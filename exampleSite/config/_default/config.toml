@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://rmwd.onrender.com/"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
